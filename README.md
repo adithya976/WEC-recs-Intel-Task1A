@@ -1,1 +1,1 @@
-# WEC-recs-Intel-Task1A
+# Real and Fake Image Classification
